@@ -2,14 +2,22 @@
 body
 {
     background-image: linear-gradient(270deg, pink, aquamarine);
+   
+    font-size: 20px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.paragrafo1
+{
     color: rgb(216, 80, 80);
     font-size: 16pt;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1
+.paragrafo2
 {
-    font-size: 30px;
-    color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(89, 126, 194);
 }
