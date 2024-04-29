@@ -8,6 +8,13 @@ body
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+h1#principal{
+    text-align: center;
+    background-color: azure;
+    color: rgb(216, 80, 80);
+}
+
+
 .paragrafo1
 {
     color: rgb(216, 80, 80);
